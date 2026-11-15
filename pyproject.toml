@@ -13,6 +13,7 @@ dependencies = [
     "joblib>=1.6.0",
     "mlflow>=3.17.2",
     "numpy>=2.5.4",
+    "optuna>=5.0.0",
     "pandas==2.2.3",
     "pydantic>=2.14.1",
     "pytest>=9.2.0",
@@ -20,6 +21,7 @@ dependencies = [
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
     "uvicorn>=0.54.0",
+    "xgboost>=3.4.1",
 ]
 
 [project.scripts]
